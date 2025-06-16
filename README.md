@@ -47,8 +47,12 @@ Through visualization techniques and KMeans clustering, the project successfully
 descriptions, and skills) 
 
 
-➢ Dataset: The dataset used in this project is a CSV file named "Coursera.csv" containing the following columns: 
+➢ Dataset ([Kaggle.com]https://www.kaggle.com/datasets/khusheekapoor/coursera-courses-dataset-2021):
+
+The dataset used in this project is a CSV file named "Coursera.csv" containing the following columns: 
 
 ➢ Course Name: The title of the course. 
+
 ➢ Description: A brief overview of the course content. 
+
 ➢ Skills: Key skills taught in the course. 
